@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+#password {
+    padding: 15px;
+    font-size: 1.5rem;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 400px;
+}
